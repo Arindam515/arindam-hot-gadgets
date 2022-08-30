@@ -1,0 +1,22 @@
+.buy-now{
+    background-image: linear-gradient(to bottom,black 0%,black 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 20px;
+    cursor: pointer;
+
+}
+.container{
+    margin-bottom: 70px;
+}
+.card-footer{
+    background-color: white;
+}
+.orange-bg{
+    background-color:wheat;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+}
